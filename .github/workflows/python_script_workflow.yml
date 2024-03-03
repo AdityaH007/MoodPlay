@@ -24,4 +24,4 @@ jobs:
         pip install -r requirements.txt  # Add this line if you have requirements
 
     - name: Run Python Script
-      run: moodplay.py
+      run: python moodplay.py
